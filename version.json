@@ -1,8 +1,8 @@
 {
-  "version": "11.1.7",
-  "versionCode": 7240,
-  "changelog": "• Кружки на Galaxy A56 пишутся в 720p с повышенным битрейтом\n• Исправлена огромная волна при нажатии «Проверить обновления»\n• В шапке всегда xxTelegram\n• Окно обновления показывает, что нового в версии",
-  "url": "https://api.github.com/repos/xx0loxi/xxTelegram/releases/assets/683290496",
+  "version": "11.1.8",
+  "versionCode": 7241,
+  "changelog": "• Буквы при вводе собираются из частиц и встают на свои места\n• Жидкое стекло: реалистичное преломление и отражение с растяжением на углах\n• Меньше размытия у стекла в чатах, на кнопках и панелях\n• После обновления разрешения больше не запрашиваются заново",
+  "url": "https://api.github.com/repos/xx0loxi/xxTelegram/releases/assets/684448907",
   "page": "https://github.com/xx0loxi/xxTelegram/releases/latest",
   "force": false
 }
